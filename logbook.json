@@ -10,7 +10,6 @@
   {
     "log": "Greetings, mermaid!",
     "by": "ednagealmira"
-
   },
   {
     "log": "permisi paket",
@@ -33,7 +32,11 @@
     "by": "arghanovanr"
   },
   {
-    "log" : "good luck",
-    "by" : "echa"
+    "log": "good luck",
+    "by": "echa"
+  },
+  {
+    "log": "day2 log to repo",
+    "by": "arghanovanr"
   }
 ]
