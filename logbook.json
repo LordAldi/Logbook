@@ -6,7 +6,7 @@
   {
     "log": "belajar branch github",
     "by": "LordAldi"
-  }
+  },
   {
     "log": "This is working!!",
     "by": "Erwin Saputra"
@@ -98,5 +98,9 @@
   {
     "log": "sudahkah kalian ribut hari ini?",
     "by" : "farhanrizxy"
+  },
+  {
+    "log" :"Eeny, meeny, miny, mo, catch a sailor by the toe, if he hollers, let him go, my mother told me to pick the very best one and... You are it!",
+    "by" : "flying dutchman"
   }
 ]
